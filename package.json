@@ -1,0 +1,14 @@
+{
+  "name": "book-app",
+  "version": "1.0.0",
+  "description": "An app that allows users to buy books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "book"
+  ],
+  "author": "Usman Olawale Adio",
+  "license": "MIT"
+}
